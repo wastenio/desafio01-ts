@@ -36,3 +36,9 @@ desenvolvido por [Nathally Souza](https://github.com/nathyts)
 [ ] Os atributos name e accountNumber não podem ser alterados internamente ou externamente
 
 [ ] Criar instancias para cada um dos tipos de conta no app.ts e executar os métodos possíveis.
+
+
+#### Desafio realizado com sucesso
+- Implementado o metodo de depósito (deposit) e saque (withdraw) na classe DioAccount
+- Implementado o metodo de emprestimo (getLoan) na classe CompanyAccount
+- Criado uma conta Special a partir da classe DioAccount
